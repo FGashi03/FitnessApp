@@ -1,0 +1,5 @@
+F.G@hotmail.com;Florjan123;Florjan;2021-03-10
+Gashi@hotmail.com;123;G;2021-03-10
+FG@gmail.com;1234;FG;2021-04-14
+FG@gmial.com;1234;FG;2021-04-14
+flo@hotmail.com;123;F;2021-04-15
